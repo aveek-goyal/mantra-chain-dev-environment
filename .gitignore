@@ -1,0 +1,17 @@
+# Ignore Mantra C2 folder
+Mantra C2/
+
+# Common files to ignore
+.DS_Store
+*.swp
+*.swo
+
+# Rust/Cargo
+target/
+**/*.rs.bk
+Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.iml
