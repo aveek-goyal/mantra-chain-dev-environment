@@ -1,5 +1,7 @@
 # MANTRA Chain One-Click Development Environment 🚀
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/aveek-goyal/mantra-chain-dev-environment)
+
 Welcome to the MANTRA Chain development environment! This guide will help you get started with CosmWasm development without any complex installations.
 
 ## 👩‍💻 For Students
